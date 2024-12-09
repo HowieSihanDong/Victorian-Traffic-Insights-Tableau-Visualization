@@ -48,11 +48,6 @@ Once you open the Tableau workbook, you can interact with the following features
 - **View Accident Hotspots**: Click on different regions on the map to see the accident data associated with specific areas.
 - **Time Trends**: Use the timeline to analyze accident trends over different periods (e.g., by day, week, or month).
 
-## Screenshots
-
-![Dashboard Screenshot](path/to/screenshot.png)
-*Example of a dashboard showing traffic flow and accident locations*
-
 ## Contributing
 
 As the sole author of this project, contributions are not currently being accepted. However, if you have any suggestions or would like to collaborate in the future, feel free to reach out.
