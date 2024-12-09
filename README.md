@@ -4,7 +4,7 @@ This project uses **Tableau** to visualize and analyze traffic conditions and ac
 
 ## Project Overview
 
-In this project, we utilized publicly available traffic data and accident statistics from various sources to create interactive visualizations. The dashboards are designed to provide an intuitive way to explore traffic flow, accident frequencies, and correlations with factors such as time of day, weather conditions, and road types.
+In this project, I utilized publicly available traffic data and accident statistics from various sources to create interactive visualizations. The dashboards are designed to provide an intuitive way to explore traffic flow, accident frequencies, and correlations with factors such as time of day, weather conditions, and road types.
 
 ### Key Features
 
@@ -53,12 +53,7 @@ Once you open the Tableau workbook, you can interact with the following features
 
 ## Contributing
 
-We welcome contributions to improve this project, whether by adding new features, improving data accuracy, or refining visualizations. To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Commit your changes and push to your fork.
-4. Open a pull request for review.
+As the sole author of this project, contributions are not currently being accepted. However, if you have any suggestions or would like to collaborate in the future, feel free to reach out.
 
 ## License
 
@@ -68,7 +63,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Tableau**: For providing an intuitive platform for data visualization.
 - **Victoria State Government**: For publicly sharing traffic and accident data.
-- **Contributors**: Thank you to everyone who has contributed to the project.
 
 ## Contact
 
