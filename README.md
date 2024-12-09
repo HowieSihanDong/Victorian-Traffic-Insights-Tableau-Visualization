@@ -6,8 +6,6 @@ This project uses **Tableau** to visualize and analyze traffic conditions and ac
 
 ## Project Overview
 
-https://github.com/user-attachments/assets/2f555a1b-835e-4593-9109-885f5cca5242
-
 In this project, I utilized publicly available traffic data and accident statistics from various sources to create interactive visualizations. The dashboards are designed to provide an intuitive way to explore traffic flow, accident frequencies, and correlations with factors such as time of day, weather conditions, and road types.
 
 ### Key Features
