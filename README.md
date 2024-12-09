@@ -36,7 +36,7 @@ To interact with or modify the Tableau workbooks locally, you will need:
     ```bash
     git clone https://github.com/yourusername/victoria-traffic-accident-visualization.git
     ```
-3. **Open the Tableau Workbook**: Open the `.twb` or `.twbx` file in Tableau Desktop to explore the visualizations.
+3. **Open the Tableau Workbook**: Open the `.twb` file in Tableau Desktop to explore the visualizations.
 
 ## Usage
 
@@ -55,9 +55,6 @@ Once you open the Tableau workbook, you can interact with the following features
 
 As the sole author of this project, contributions are not currently being accepted. However, if you have any suggestions or would like to collaborate in the future, feel free to reach out.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -66,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, feel free to contact me at [your email] or open an issue in the repository.
+For any questions or suggestions, feel free to contact me at [toidi0710@outlook.com] or open an issue in the repository.
