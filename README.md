@@ -4,7 +4,7 @@ This project uses **Tableau** to visualize and analyze traffic conditions and ac
 
 ## Project Overview
 
-[![Watch the video](https://github.com/HowieSihanDong/Victorian-Traffic-Insights-Tableau-Visualization/blob/e15dd17818cef3c2d5f217f0a352c3728621a761/pic)]([https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4](https://github.com/HowieSihanDong/Victorian-Traffic-Insights-Tableau-Visualization/blob/e15dd17818cef3c2d5f217f0a352c3728621a761/pre_final.mov))
+[![Watch the video](https://github.com/HowieSihanDong/Victorian-Traffic-Insights-Tableau-Visualization/blob/e15dd17818cef3c2d5f217f0a352c3728621a761/pic)](https://github.com/HowieSihanDong/Victorian-Traffic-Insights-Tableau-Visualization/blob/e15dd17818cef3c2d5f217f0a352c3728621a761/pre_final.mov)
 
 
 
