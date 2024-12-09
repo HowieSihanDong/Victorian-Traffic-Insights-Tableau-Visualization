@@ -11,7 +11,7 @@ This project uses **Tableau** to visualize and analyze traffic conditions and ac
 <img src="./docs/assets/playground_button.png" alt="D2 Playground button" width="200" />
 </a>
 
-https://github.com/HowieSihanDong/Victorian-Traffic-Insights-Tableau-Visualization/blob/fafdfc2cd2ae8d41c5b55d6684452a3a15877b2b/pre_final.mov
+https://github.com/HowieSihanDong/Victorian-Traffic-Insights-Tableau-Visualization/blob/73726c4557d49aa41a523f374e0c89ad660962b7/pre_final.mp4
 
 </div>
 
