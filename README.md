@@ -4,9 +4,7 @@ This project uses **Tableau** to visualize and analyze traffic conditions and ac
 
 ## Project Overview
 
-[![Watch the video](https://github.com/HowieSihanDong/Victorian-Traffic-Insights-Tableau-Visualization/blob/e15dd17818cef3c2d5f217f0a352c3728621a761/pic)](https://github.com/HowieSihanDong/Victorian-Traffic-Insights-Tableau-Visualization/blob/e15dd17818cef3c2d5f217f0a352c3728621a761/pre_final.mov)
-
-
+[![Watch the video](https://img.youtube.com/vi/UK1K6Aay_1k/0.jpg)](https://youtu.be/UK1K6Aay_1k)
 
 In this project, I utilized publicly available traffic data and accident statistics from various sources to create interactive visualizations. The dashboards are designed to provide an intuitive way to explore traffic flow, accident frequencies, and correlations with factors such as time of day, weather conditions, and road types.
 
