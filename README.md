@@ -1,26 +1,12 @@
+
+https://github.com/user-attachments/assets/079634d4-e69c-4810-aa11-1aee2b73f87e
 # Victoria Traffic and Accident Visualization
 
 This project uses **Tableau** to visualize and analyze traffic conditions and accident data in the state of **Victoria**, Australia. The goal is to provide insights into traffic patterns, accident hotspots, and related trends, helping both city planners and the general public better understand road safety and traffic dynamics.
 
 ## Project Overview
 
-[![Watch the video](https://img.youtube.com/vi/UK1K6Aay_1k/0.jpg)](https://youtu.be/UK1K6Aay_1k)
-
-<div align="center">
-  <!-- 图片部分 -->
-  <a href="https://play.d2lang.com">
-    <img src="https://raw.githubusercontent.com/HowieSihanDong/Victorian-Traffic-Insights-Tableau-Visualization/73726c4557d49aa41a523f374e0c89ad660962b7/pic" alt="D2 Playground button" width="200" />
-  </a>
-
-  <!-- 视频部分 -->
-  <video width="400" controls>
-    <source src="https://raw.githubusercontent.com/HowieSihanDong/Victorian-Traffic-Insights-Tableau-Visualization/73726c4557d49aa41a523f374e0c89ad660962b7/pre_final.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-
-
+https://github.com/user-attachments/assets/2f555a1b-835e-4593-9109-885f5cca5242
 
 In this project, I utilized publicly available traffic data and accident statistics from various sources to create interactive visualizations. The dashboards are designed to provide an intuitive way to explore traffic flow, accident frequencies, and correlations with factors such as time of day, weather conditions, and road types.
 
